@@ -9,7 +9,7 @@ import VueSweetalert2 from 'vue-sweetalert2'
 import 'sweetalert2/dist/sweetalert2.min.css'
 import ImgInputer from 'vue-img-inputer'
 import 'vue-img-inputer/dist/index.css'
-import VueAnalytics from 'vue-analytics'
+import VueGtag from 'vue-gtag'
 
 import App from './App.vue'
 import router from './router'
